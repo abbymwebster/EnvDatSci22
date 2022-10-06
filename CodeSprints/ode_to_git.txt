@@ -2,8 +2,17 @@ Oh git!
 you may confuse me now,
 but later you will make me less confused,
 
+<<<<<<< HEAD
 
 why must you make my life so hard by not letting me copy and paste
 your commands do not make sense to me
 I wish you were R
+=======
+Who knows why we do the things we do.
+
+You keep my data safe,
+even when it's just cat memes
+
+
+>>>>>>> upstream/master
 
