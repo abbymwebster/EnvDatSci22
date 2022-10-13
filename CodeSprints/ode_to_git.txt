@@ -4,8 +4,28 @@ but later you will make me less confused,
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 09029573e0fa5c4584726c0f5aa82c09e74f15ce
+=======
+or, alternatively,
+I will still be very confused;
+only a semester's time will tell.
+I really hope that maybe someday
+I will be able to understand computer logic.
+
+Who knows why we do the things we do.
+
+python you are so complex
+ I am perplexed
+python you are so complex,
+ I am perplexed
+Python you are so complex,
+I am perplexed
+
+I hope that day is soon,
+lets be friends
+>>>>>>> upstream/master
 
 why must you make my life so hard by not letting me copy and paste
 your commands do not make sense to me
@@ -67,4 +87,7 @@ even when it's just cat memes
 =======
 hi
 my name is chris
+<<<<<<< HEAD
 >>>>>>> 09029573e0fa5c4584726c0f5aa82c09e74f15ce
+=======
+>>>>>>> upstream/master
